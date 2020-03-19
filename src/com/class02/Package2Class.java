@@ -6,6 +6,7 @@ public class Package2Class {
 		// TODO Auto-generated method stub
 
 	System.out.println("test case 1");
+	System.out.println("test case 2");
 	}
 
 }
