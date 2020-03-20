@@ -7,6 +7,7 @@ public class Package2Class {
 
 	System.out.println("test case 1");
 	System.out.println("test case 2");
+	System.out.println("test case 3");
 	}
 
 }
